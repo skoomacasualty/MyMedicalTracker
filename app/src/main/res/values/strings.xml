@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Medical Tracker</string>
+    <string name="doctors">Doctors</string>
+    <string name="clinics">Clinics</string>
+    <string name="prescriptions">Prescriptions</string>
+    <string name="appointments">Appointments</string>
+    <string name="tests">Tests</string>
+    <string name="diagnoses">Diagnoses</string>
+    <string name="symptoms">Symptoms</string>
+</resources>
